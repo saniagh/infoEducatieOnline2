@@ -58,3 +58,5 @@ _**4.Tehnologii folosite**_
 <li>MySQL</li>
 <li>PHP</li>
 </ul>
+
+<b>For the login and signup form and pages, refer to https://github.com/peredurabefrog/phpSecureLogin which provided these great tools. Current in-use files are modified and should not be used for own projects. Refer to the above link.</b>
